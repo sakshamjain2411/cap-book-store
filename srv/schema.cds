@@ -15,4 +15,7 @@ service ManageAuthor {
 annotate CatalogService.Books with @odata.draft.enabled;
 annotate ManageAuthor.Authors with @odata.draft.enabled;
 
+annotate CatalogService with @(requires: 'BookManager');
+annotate ManageAuthor with @(requires: 'AuthorManager');
+
 

@@ -82,7 +82,7 @@ annotate service.Books with @(
         },
         {
             $Type : 'UI.DataField',
-            Label : 'PageCount',
+            Label : '{i18n>PageCount}',
             Value : PageCount,
         },
     ],

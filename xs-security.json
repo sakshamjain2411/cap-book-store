@@ -1,0 +1,41 @@
+{
+  "scopes": [
+    {
+      "name": "$XSAPPNAME.BookManager",
+      "description": "BookManager"
+    },
+    {
+      "name": "$XSAPPNAME.AuthorManager",
+      "description": "AuthorManager"
+    }
+  ],
+  "attributes": [],
+  "role-templates": [
+    {
+      "name": "BookManager",
+      "description": "generated",
+      "scope-references": [
+        "$XSAPPNAME.BookManager"
+      ],
+      "attribute-references": []
+    },
+    {
+      "name": "AuthorManager",
+      "description": "generated",
+      "scope-references": [
+        "$XSAPPNAME.AuthorManager"
+      ],
+      "attribute-references": []
+    }
+  ],
+  "role-collections": [
+    {
+      "name": "$XSAPPNAME.Administrator",
+      "description": "Admin Role",
+      "role-template-references": [
+        "$XSAPPNAME.BookManager",
+        "$XSAPPNAME.AuthorManager"
+      ]
+    }
+  ]
+}
