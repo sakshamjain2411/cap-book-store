@@ -1,0 +1,13 @@
+ID,Title,Author_ID,Language_code,Description,Genre,PageCount,Publisher,Rating
+3f28256f-1870-49a6-b3e4-293dac506a5f,Harry Potter and the Half-Blood Prince,3f28256f-1870-49a6-b3e4-293dac506a5a,ENG,The sixth book in the Harry Potter series.,Fantasy,607,Bloomsbury,4.2
+3f28256f-1870-49a6-b3e4-293dac506a5g,Harry Potter and the Deathly Hallows,3f28256f-1870-49a6-b3e4-293dac506a5a,ENG,The seventh book in the Harry Potter series.,Fantasy,607,Bloomsbury,4.5
+8b1f4943-cb9c-4c09-8351-049dfb68847d,The Adventures of John Doe,8b1f4943-cb9c-4c09-8351-049dfb68847c,ENG,The first book in the John Doe series.,Adventure,350,Adventure Publishers,3.5
+8b1f4943-cb9c-4c09-8351-049dfb68847e,John Doe: The Return,8b1f4943-cb9c-4c09-8351-049dfb68847c,ENG,The second book in the John Doe series.,Adventure,400,Adventure Publishers,4
+7a6b5f73-6370-49a2-b3e8-293dac506a9f,The Mystery of Jane Smith,7a6b5f73-6370-49a2-b3e8-293dac506a9e,ENG,Jane Smith's first mystery novel.,Mystery,300,Mystery Publishers,3
+7a6b5f73-6370-49a2-b3e8-293dac506a9g,Jane Smith: The Secret,7a6b5f73-6370-49a2-b3e8-293dac506a9e,ENG,The sequel to The Mystery of Jane Smith.,Mystery,320,Mystery Publishers,4.5
+6c5b2a72-4870-49a3-b3e7-293dac506a8e,Robert Johnson's Epic,6c5b2a72-4870-49a3-b3e7-293dac506a8d,ENG,An epic tale by Robert Johnson.,Epic,500,Epic Publishers,4.5
+6c5b2a72-4870-49a3-b3e7-293dac506a8f,The Return of Robert Johnson,6c5b2a72-4870-49a3-b3e7-293dac506a8d,ENG,The sequel to Robert Johnson's Epic.,Epic,520,Epic Publishers,4
+5d4a3971-3870-49a4-b3e6-293dac506a7d,Emily Davis: The Journey,5d4a3971-3870-49a4-b3e6-293dac506a7c,ENG,Emily Davis's first adventure novel.,Adventure,360,Adventure Publishers,4.6
+5d4a3971-3870-49a4-b3e6-293dac506a7e,The Return of Emily Davis,5d4a3971-3870-49a4-b3e6-293dac506a7c,ENG,The sequel to Emily Davis: The Journey.,Adventure,380,Adventure Publishers,4.8
+4e393670-2870-49a5-b3e5-293dac506a6c,Michael Miller: The Discovery,4e393670-2870-49a5-b3e5-293dac506a6b,ENG,Michael Miller's first science fiction novel.,Sci-Fi,400,Sci-Fi Publishers,4
+4e393670-2870-49a5-b3e5-293dac506a6d,The Return of Michael Miller,4e393670-2870-49a5-b3e5-293dac506a6b,ENG,The sequel to Michael Miller: The Discovery.,Sci-Fi,420,Sci-Fi Publishers,4.4
